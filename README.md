@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# logo.cyberpolygon.com
 
-You can use the [editor on GitHub](https://github.com/cyberpolygon-org/logo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Font
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Font in use <a target="_blank" href="https://alessiolaiso.com/aleo-font">Aleo-Regular</a> designed by
+<a target="_blank" href="https://alessiolaiso.com/">Alessio Laiso</a>
+and licensed under
+<a target="_blank" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL_web">Open Font License.</a>
+Icon Designed by
+<a target="_blank" href="https://thenounproject.com/samsam58">CJS</a>
 
-```markdown
-Syntax highlighted code block
+## Color
 
-# Header 1
-## Header 2
-### Header 3
+### Font
 
-- Bulleted
-- List
+    #D6D6D6, #7F4DBE
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Icon
 
-[Link](url) and ![Image](src)
-```
+    #D6D6D6, #7F4DBE
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Background
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyberpolygon-org/logo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    transparent
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## logo
+
+
+### 1
+![1/default.png](1/default.png)
+
+### 2
+![2/cover.png](2/cover.png)
